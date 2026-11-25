@@ -1,4 +1,4 @@
-# PRORMRXCN-STA
+# X-STA
 
 An independent, modular C++20 static timing analysis prototype. It reads a
 Yosys JSON gate-level netlist and one or more NLDM Liberty corners, resolves
